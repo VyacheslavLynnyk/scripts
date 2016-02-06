@@ -23,4 +23,5 @@ then
 127.0.0.1       php-academy.my
 127.0.0.1	help" | sudo tee -a /etc/hosts
 fi
-2hosts-config.sh
+$DIR/1xamp-reload.sh
+$DIR/2hosts-config.sh
